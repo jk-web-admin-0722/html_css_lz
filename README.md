@@ -1,1 +1,2 @@
-# html_css_lz
+# Mācos HTML un CSS
+Mana pirmā HTML lapa
